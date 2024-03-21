@@ -7,7 +7,7 @@ vue3 pinia element-plus unocss
 ## 使用方法
 
 ```bash
-npx degit Grombolar/vue3-uno-element your-project
+npx degit Grombolar/vue3-uno-element#main your-project
 ```
 
 ## Git 提交规范
