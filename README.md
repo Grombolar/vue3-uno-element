@@ -1,8 +1,14 @@
-# Vue 3 + TypeScript + Vite
+# Vue3 + TypeScript + Vite
 
 ## 使用的技术栈
 
-vue3,pinia,element-plus,unocss
+vue3 pinia element-plus unocss
+
+## 使用方法
+
+```bash
+npx degit Grombolar/vue3-uno-element your-project
+```
 
 ## Git 提交规范
 
