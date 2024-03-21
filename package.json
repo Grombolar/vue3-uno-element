@@ -1,8 +1,14 @@
 {
   "name": "vue3-uno-element",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "author": "Grombolar",
+  "description": "vite模板:vue3+pinia+element+unocss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Grombolar/vue3-uno-element"
+  },
   "scripts": {
     "dev": "vite",
     "mock": "vite --mode mock --force",
